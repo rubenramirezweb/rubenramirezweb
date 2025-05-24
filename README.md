@@ -34,7 +34,7 @@
 
 - 💬 Ask me about Full stack web development, personal projects, or learning resources in tech.
 
-- 📫 You can reach me via email ruvelopermx@gmail.com or through my [LinkedIn profile](https://www.linkedin.com/in/rubenramirezdeveloper)
+- 📫 You can reach me via email hola@rubenramirezweb.com or through my [LinkedIn profile](https://www.linkedin.com/in/rubenramirezdeveloper)
 
 - 📄 Check out my GitHub repositories and personal projects to learn [more about my experience](https://github.com/rubenramirezweb?tab=repositories)
 
