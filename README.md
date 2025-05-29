@@ -53,21 +53,7 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" width="40" height="40"/> </a> 
   <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hubspot/FF7A59" alt="hubspot" width="40" height="40"/> </a> 
 
-
-
-
 </p><br>
-
-
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenramirezweb&show_icons=true&theme=dark&locale=en&layout=compact" alt="rubenramirezweb" /></p>
-
-<br><br><br><br><br><br><br>
 
 
 <hr width="36%" >
