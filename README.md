@@ -34,7 +34,7 @@
 
 - 💬 Ask me about Full stack web development, personal projects, or learning resources in tech.
 
-- 📫 You can reach me via email hola@rubenramirezweb.com or through my [LinkedIn profile](https://www.linkedin.com/in/rubenramirezdeveloper)
+- 📫 You can reach me via [LinkedIn profile](https://www.linkedin.com/in/rubenramirezdeveloper)
 
 - 📄 Check out my GitHub repositories and personal projects to learn [more about my experience](https://github.com/rubenramirezweb?tab=repositories)
 
@@ -68,22 +68,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenramirezweb&show_icons=true&theme=dark&locale=en&layout=compact" alt="rubenramirezweb" /></p>
 
 <br><br><br><br><br><br><br>
-## 📈 GitHub Statistics
-<table>
-  <tr>
-    <td><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=rubenramirezweb&show_icons=true&theme=dark&locale=es" alt="rubenramirezweb" />
-    </td>
-    <td><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenramirezweb&theme=dark" alt="rubenramirezweb" />
-    </td>
-  </tr>
-</table>
+
 
 <hr width="36%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rubenramirezdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubenramirezdeveloper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruben-ramirez-hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubenramirezdeveloper" height="30" width="40" /></a>
 
 
 
